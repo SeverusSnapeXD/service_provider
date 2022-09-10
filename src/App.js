@@ -12,7 +12,7 @@ import SignUp from './Pages/signup';
 function App() {
   return (
     <div className="App">
-      {/* <div className="content-wraper">
+      {/* <div className="content-wraper"> 
         
       </div> */}
       <Router>

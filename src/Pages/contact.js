@@ -9,7 +9,7 @@ const Contact = () => {
         alignItems: 'center',
         height: '90vh'
       }}
-    >
+    > 
       <h1>Contact Us</h1>
     </div>
   );
